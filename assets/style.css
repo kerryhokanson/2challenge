@@ -1,0 +1,47 @@
+*{
+    font-family: ""
+}
+
+nav{
+display:flex
+flex-direction: table-row
+
+}
+
+header{
+    background-color: #0D6F0B;
+    color: white;
+}
+
+.sections{
+    text-align:center;
+    margin: 80px
+}
+#about-me{
+    
+    }
+
+#work{
+
+}
+
+#contact-me{
+
+}
+
+
+
+footer{
+    background-color: #0D6F0B;
+}
+
+
+
+main{
+
+}
+
+.headers{
+    display: flex;
+    justify-content: center;
+}
